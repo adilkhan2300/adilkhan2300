@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqAUPmN7jzUl51Kw2zJiGfPQzKpYLRcSXaQ&s)](https://rishavchanda.io)
+[![MasterHead](https://github.com/adilkhan2300/gif/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1)%20(1).gif?raw=true)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Adil Khan</h1>
 <h3 align="center">UI/UX Design Intern |Aspiring Front-End Developer | Basics in Python, Java, C, C++ | <br>Crafting User-Centric Experiences</h3>
 
