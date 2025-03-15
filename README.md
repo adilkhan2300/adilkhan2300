@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/adilkhan2300/gif/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1)%20(1).gif?raw=true)](https://rishavchanda.io)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/adilkhan2300/github-profile-trophy)
+
 <h1 align="center">Hi 👋, I'm Adil Khan</h1>
 <h3 align="center">Student | UI/UX Designer | Python & Java Learner | Committed to Creating Seamless Digital Experiences</h3>
 
