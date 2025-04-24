@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/adilkhan2300/gif/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1)%20(1).gif?raw=true)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Adil Khan</h1>
+<h1 align="center">Hi, I'm Adil Khan</h1>
 <h3 align="center">Student | UI/UX Designer | Python & Java Learner | Committed to Creating Seamless Digital Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilkhan2300&label=Profile%20views&color=0e75b6&style=flat" alt="adilkhan2300" /> </p>
@@ -8,8 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilkhan2300" alt="adilkhan2300" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/simplyyy_adil" target="blank"><img src="https://img.shields.io/twitter/follow/simplyyy_adil?logo=twitter&style=for-the-badge" alt="simplyyy_adil" /></a> </p>
-
-- 🌱 I’m currently learning **Java,Python,Big Data & AI**
+ 
+- 🌱 I’m currently learning **Java & Python**
 
 - 💬 Ask me about **UI/UX Designing and Frontend Development**
 
