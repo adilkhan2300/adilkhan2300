@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 <h1 align="center">Hi, I'm Adil Khan</h1>
 <h3 align="center">Student | UI/UX Designer | Python & Java Learner | Committed to Creating Seamless Digital Experiences</h3>
