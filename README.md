@@ -1,7 +1,7 @@
 ![](https://github.com/adilkhan2300/gif/blob/main/IMG_0178.gif)
 
 <h1 align="center">Hi, I'm Adil Khan</h1>
-<h3 align="center">Student | UI/UX Designer | Python & Java Learner | Committed to Creating Seamless Digital Experiences</h3>
+<h3 align="center">Student| Frontend Dev Enthusiast | Python & Java Learner | Committed to Creating Seamless Digital Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilkhan2300&label=Profile%20views&color=0e75b6&style=flat" alt="adilkhan2300" /> </p>
 
